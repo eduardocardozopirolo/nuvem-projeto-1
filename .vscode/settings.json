@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "beckend/src/main/java/com/example/backend",
-        "beckend/src/main/java/com/example/demo"
-    ],
-    "java.compile.nullAnalysis.mode": "automatic",
-    "java.debug.settings.onBuildFailureProceed": true
-}
